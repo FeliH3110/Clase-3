@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
         System.out.println("Hola mundo!");
-        System.out.println("Primer programa");
+        System.out.println("segundo programa");
     }
 }
